@@ -1,0 +1,13 @@
+[4, 15, 7, 11, 16, 12, 13, 8, 14, 6, 3, 5, 9, 1, 10, 2]
+
+4. ML Medizin
+15. Bildung
+7. Evalulierung LLMs
+8. EU AI Act
+6. MoE
++++++++++
+3. Autonomes Fahren
+5. SLM
+9. Anpassung
+1. Ökölogie in KI
+2. Fairness / Bias
